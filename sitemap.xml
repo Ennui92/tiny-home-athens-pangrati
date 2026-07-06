@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Replace the domain with your real deployed URL. -->
+  <url>
+    <loc>https://ennui92.github.io/tiny-home-athens-pangrati/</loc>
+    <lastmod>2026-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://ennui92.github.io/tiny-home-athens-pangrati/images/01-aerial-overview.webp</image:loc></image:image>
+    <image:image><image:loc>https://ennui92.github.io/tiny-home-athens-pangrati/images/03-bed-daylight.webp</image:loc></image:image>
+    <image:image><image:loc>https://ennui92.github.io/tiny-home-athens-pangrati/images/06-kitchen.webp</image:loc></image:image>
+  </url>
+</urlset>

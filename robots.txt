@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your real domain once deployed:
+Sitemap: https://ennui92.github.io/tiny-home-athens-pangrati/sitemap.xml
